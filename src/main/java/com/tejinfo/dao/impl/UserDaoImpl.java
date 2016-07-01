@@ -1,4 +1,4 @@
-package com.humano.care.dao.impl;
+package com.tejinfo.dao.impl;
 
 import java.sql.Connection;
 import java.sql.PreparedStatement;
@@ -12,8 +12,8 @@ import javax.sql.DataSource;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Repository;
 
-import com.humano.care.dao.UserDAO;
-import com.humano.care.model.User;
+import com.tejinfo.dao.UserDAO;
+import com.tejinfo.model.User;
 
 
 @Repository

@@ -1,4 +1,4 @@
-package com.humano.care.model;
+package com.tejinfo.model;
 
 import java.util.List;
 

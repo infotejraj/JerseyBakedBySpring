@@ -1,4 +1,4 @@
-package com.humano.care.service.impl;
+package com.tejinfo.service.impl;
 
 import java.util.List;
 
@@ -6,9 +6,9 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;
 
-import com.humano.care.dao.UserDAO;
-import com.humano.care.model.User;
-import com.humano.care.service.UserService;
+import com.tejinfo.dao.UserDAO;
+import com.tejinfo.model.User;
+import com.tejinfo.service.UserService;
 
 @Service
 public class UserServiceImpl implements UserService {

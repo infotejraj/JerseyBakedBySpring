@@ -1,4 +1,4 @@
-package com.humano.care.rest;
+package com.tejinfo.rest;
 
 import java.util.List;
 
@@ -11,8 +11,8 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.security.access.prepost.PreAuthorize;
 import org.springframework.stereotype.Component;
 
-import com.humano.care.model.User;
-import com.humano.care.service.UserService;
+import com.tejinfo.model.User;
+import com.tejinfo.service.UserService;
 
 @Path("/user")
 public class UserRestService {

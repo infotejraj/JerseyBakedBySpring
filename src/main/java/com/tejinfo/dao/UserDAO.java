@@ -1,4 +1,4 @@
-package com.humano.care.dao;
+package com.tejinfo.dao;
 
 import java.util.List;
 

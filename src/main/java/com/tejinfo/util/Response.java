@@ -1,4 +1,4 @@
-package com.humano.care.util;
+package com.tejinfo.util;
 
 import java.io.Serializable;
 
