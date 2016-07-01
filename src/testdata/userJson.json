@@ -1,0 +1,14 @@
+{
+	"userId": "1",
+	"firstName": "Tejraj",
+	"lastName": "Nimbalkar",
+	"middleName": "S",
+	"birthDate": "1989-08-07",
+	"mobileNo": "8796171419",
+	"phoneNo": "02266590210",
+	"gender": "M",
+	"email": "tejraj.nimbalkar@shamakcomputing.com",
+	"bloodGroup": "O+",
+	"photoUrl": "images/profile/pic.jpg",
+	"userType": "DOCTOR"
+}
